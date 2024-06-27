@@ -61,7 +61,7 @@ const Login = () => {
           //className={Classnames(Login_module.login, App_module['next-btn'])}
           >
             <div className="flex flex-col items-center">
-            <img className="max-h-96 pb-5 mb-10" src="../assets/old.png" alt="image description"></img>
+            <img className="max-h-96 pb-5 mb-10" src="assets/old.png" alt="image description"></img>
             <input
               //className={Classnames(Login_module.login, App_module['next-btn'])}
               className="mb-5 placeholder-white flex items-center content-center justify-between flex-wrap bg-[#FF1493] text-white border m-2.5 p-2.5 rounded-[10px] border-solid border-white hover:border hover:border-solid hover:border-[rgb(0,0,255)];"
