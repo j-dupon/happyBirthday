@@ -9,11 +9,8 @@ type Props = {
 function StatBar(props: Props) {
     return (
         <div className={StatBar_module['stat-container']}>
-            <p>
-                Questions: {props.currentQuestion}/{props.totalQuestions}
-            </p>
-            <p>Correct: {props.correct}</p>
-            <p>Incorrect: {props.incorrect}</p>
+            <p>RICHTIG! &rarr; {props.correct}</p>
+            <p>falsch ... &rarr; {props.incorrect}</p>
         </div>
     );
 }

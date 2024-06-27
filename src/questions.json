@@ -1,14 +1,44 @@
 {
   "questions": [
     {
-      "question": "What is my Name?",
-      "choices": ["Tim", "John", "Susan", "Burt"],
+      "question": "Ein bisschen Quizzzzz muss sein",
+      "choices": ["Ja", "Nein", "Vielleicht", "Känguru!"],
+      "correctAnswerIdx": 3
+    },
+    {
+      "question": "Vor 15 (15!!) Jahren sind wir das erste mal ins Kino gegangen. Aber in welchen Film?",
+      "choices": ["Stirb Langsam 5.0", "Twilight - Biss zum Morgengrauen", "känguru ... na ja", "Fight Club"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "Was passt gut zusammen?",
+      "choices": ["Das Känguru und Herr Haase", "Düne und Rakete", "Querflöte und Bratsche", "Juristin und Wohnberechtigungsschein"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "Vor knapp 17 Jahren waren wir gemeinsam auf Orchesterfahrt. Wie haben wir und dort kennengelernt?",
+      "choices": ["Beim Lästern", "Am Veggytisch", "Beim Joggen", "Wegen Sean"],
+      "correctAnswerIdx": 3
+    },
+    {
+      "question": "Bester Zeitvertreib zur Unizeit?",
+      "choices": ["Blumenbeete zertrampeln", "Die Bib unsicher machen", "Kickern", "Mensieren"],
+      "correctAnswerIdx": 2
+    },
+    {
+      "question": "I-AAAAH macht der ...",
+      "choices": ["Durak", "Burggaller", "Holzbläser", "Pinguin"],
       "correctAnswerIdx": 0
     },
     {
-      "question": "What is my last Name?",
-      "choices": ["Ruscica", "Smith", "Ann", "Jose"],
-      "correctAnswerIdx": 0
+      "question": "Apropos. MitarbeiterInnen des Monats?",
+      "choices": ["Andreas, Thomas und Ronald", "Marlisa, Timo und Jeewoo", "Ralf, Claudia und Elisabeth", "Jozef, Martin und Martin"],
+      "correctAnswerIdx": 4
+    },
+    {
+      "question": "An deinem 18. Geburtstag hatte ich das letzte mal ein richtiges Geschenk für dich. Aber ...",
+      "choices": ["... es war nicht pink verpackt", "... es war nicht pink", "... ich hatte einen nicht pinken Platzhalter dabei", "... ups I did it again"],
+      "correctAnswerIdx": 3
     }
   ]
 }
